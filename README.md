@@ -1,4 +1,7 @@
 # keylogg-scanning4pendrive
+
+check out my new better keylogger
+
 simple keylogger + program which scan is in PC drive what name is 'something in code' and then copy it to your drive
 
 U have to set ur pendrive name in checking.cpp in checkDriveLabel() on bottom of the file
